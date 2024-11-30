@@ -1,4 +1,4 @@
-## Deploy simple web page showing Q Business
+## Deploy simple web page showing Amazon Q Embedded 
 
 Run the simplewebpageDeploy YML file from CloudFormation.
 When prompted enter a unique Stack name, a name for the website and the Q Business application ID.
